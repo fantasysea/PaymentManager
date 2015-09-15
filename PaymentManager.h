@@ -2,7 +2,7 @@
 //  PaymentUtil.h
 //  com.wuheyou.test
 //
-//  Created by 无何有 on 15/9/15.
+//  Created by  on 15/9/15.
 //  Copyright (c) 2015年 wuheyou. All rights reserved.
 //
 /**
